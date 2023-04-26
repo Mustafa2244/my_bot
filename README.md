@@ -4,7 +4,7 @@
 
 `pip install -e my_bot`
 #### або
-`pip install git+<ссылка на твой репозиторий>#egg=my_bot`
+`pip install git+https://github.com/Mustafa2244/my_bot#egg=my_bot`
 ## Використання
 ### Бот може бути викликаний у будь-якому місці системи відповідною командою:
 `my-bot`
